@@ -1,20 +1,23 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+about: Schlage Ideen für die Webseite vor
+title: "[FEATURE]: <Kurzbeschreibung>"
+labels: idear
+assignees: RichardSprenger
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Kurze Beschreibung deiner Idee**  
+Gib eine kurze Beschreibung die gewünschte Funktionalität ab.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Bezieht sich deine Funktionsanfrage auf ein Problem? Bitte beschreiben es.**   
+Eine klare und prägnante Beschreibung des Problems. Bsp.: Ich bin immer frustriert, wenn [...]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Beschreibe die Lösung für die Anfrage / Idee**   
+Eine klare und prägnante Beschreibung dessen, was Sie wollen.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Beschreibe Alternativen, die in Betracht gezogen wurden**   
+Eine klare und prägnante Beschreibung aller alternativen Lösungen oder Funktionen, die auch zum Erreichen der Idee / Funktionalität führen.
+
+**Zusätzlicher Kontext**
+Füge hier weitere Informationen oder Screenshots zu der Anfrage hinzu.
