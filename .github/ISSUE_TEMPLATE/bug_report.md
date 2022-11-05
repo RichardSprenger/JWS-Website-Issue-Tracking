@@ -1,38 +1,38 @@
 ---
-name: :bug: Bug report
-about: Erstelle eine Meldung über einen Fehler
-title: '[BUG]: <Kurzbeschreibung>'
-labels: bug
-assignees: RichardSprenger
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
-**Beschreibe den Fehler**   
-Gib eine klare, präzise Beschreibung über den aufgetretenen Fehler ab
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Wie ist der Fehler entstanden / wie kann am diesen nachstellen**   
-Welche Schritte sind notwendig, um das Verhalten nachstellen zu können:
-1. Gehe zu '...'
-2. Öffne '....'
-3. Klicke auf '....'
-4. Hier entsteht der Fehler
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Welches Verhalten wurde eigentlich erwartet?**   
-Beschreibe klar und präzise, welches Verhalten eigentlich erwartet wurde.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
 **Screenshots**
-Wenn möglich, füge hier Screenshots (Drag & Drop oder Einfügen) hinzu, um den Fehler genauer zu beschreiben
+If applicable, add screenshots to help explain your problem.
 
-**Desktop (Wenn möglich, folgende Informationen über deine Computer einfügen):**   
- - OS: [e.g. iOS, Windows 10]
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (Wenn möglich, folgende Informationen über dein Handy einfügen):**   
+**Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Weitere Kontext**   
-Beschreibe alle weiteren Informationen über den Fehler.
+**Additional context**
+Add any other context about the problem here.
