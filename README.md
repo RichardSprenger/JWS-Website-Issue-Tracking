@@ -7,13 +7,13 @@ Wir nutzen diesen Ort als ein Platz, um aufgetretene Fehler zu dokumentieren, we
 
 ## :bug: Mir ist ein Fehler aufgefallen. Wie kann ich diesen Melden?
 
-Gib uns bitte [HIER]() anhand der Vorlage eine möglichst genaue Beschreibung über den Fehler und wie & wo dieser entstanden ist.   
+Gib uns bitte [HIER](https://github.com/RichardSprenger/JWS-Website-Issue-Tracking/issues/new?assignees=RichardSprenger&labels=bug&template=bug_report.md&title=%5BBUG%5D%3A+%3CKurzbeschreibung%3E) anhand der Vorlage eine möglichst genaue Beschreibung über den Fehler und wie & wo dieser entstanden ist.   
 Fehler die auf der Webseite entstanden sind, wollen wir natürlich möglichst schnell beheben. Daher helfen uns eure Meldungen besonders!
 
 ## :bulb: Ich habe eine gute Idee für weitere Funktionalitäten!
 
 Über kreative Ideen, wie wir die Webseite kontinuierlich verbessern können, nehmen wir gerne an!   
-Fülle dazu [HIER]() die Vorlage aus und erstelle ein Ticket.   
+Fülle dazu [HIER](https://github.com/RichardSprenger/JWS-Website-Issue-Tracking/issues/new?assignees=RichardSprenger&labels=idear&template=feature_request.md&title=%5BFEATURE%5D%3A+%3CKurzbeschreibung%3E) die Vorlage aus und erstelle ein Ticket.   
 Schaue auch [HIER](https://github.com/RichardSprenger/JWS-Website-Issue-Tracking/issues?q=label%3Aenhancement+label%3Aidear+) nach ob diese Idee schon aufgenommen ist. In diesem Falle bringe dich gerne in die Diskussion über Funktionalität ein und führe deine Ideen an.
 
 ## :speech_balloon: Ich habe Themen über welche ich sprechen möchte!
