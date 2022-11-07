@@ -5,6 +5,10 @@
 Vielen Dank für Dein Interesse, unsere Webseite voranzubringen!
 Wir nutzen diesen Ort als ein Platz, um aufgetretene Fehler zu dokumentieren, weitere gewünschte Funktionalitäten festzuhalten und Diskussionen zu führen.
 
+## :newspaper: Neuigkeiten
+
+[HIER](https://github.com/RichardSprenger/JWS-Website-Issue-Tracking/discussions/categories/announcements) findest du alle wichtigen Neuigkeiten und weitere Informationen.
+
 ## :bug: Mir ist ein Fehler aufgefallen. Wie kann ich diesen Melden?
 
 Gib uns bitte [HIER](https://github.com/RichardSprenger/JWS-Website-Issue-Tracking/issues/new?assignees=RichardSprenger&labels=bug&template=bug_report.md&title=%5BBUG%5D%3A+%3CKurzbeschreibung%3E) anhand der Vorlage eine möglichst genaue Beschreibung über den Fehler und wie & wo dieser entstanden ist.   
@@ -31,8 +35,8 @@ Hier werden die wichtigsten Aufgaben aufgelistet.
 # :computer: Ich möchte bei der Entwicklung Helfen!
 
 Hilfe nehmen wir natürlich dankend an!     
-Wenn du umfangreiche Erfahrungen in der Programmierung (Idealerweise in Angular oder Spring Boot) hast, schreib uns doch gerne über Threema oder [per Mail](mailto:jws@sprenger.pro?subject=[GitHub]%20Hilfe%20bei%20der%20JWS-Webseite).
+Wenn du umfangreiche Erfahrungen in der Programmierung (Idealerweise in Angular oder Spring Boot) hast, schreib uns doch gerne über Threema oder [per Mail](mailto:jws@sprenger.pro?subject=[GitHub]%20Hilfe%20bei%20der%20JWS-Webseite) und wir besprechen wie du uns tatkräftig bei der Entwicklung unterstützen kannst. 
 
 Auch wenn du keine Programmiererfahrung hast, kannst du uns bei der Entwicklung der Webseite helfen!   
-Schreibe uns beispielsweise, welche zusätzlichen Funktionen du gerne sehen möchtest oder beteilige dich mit deiner Meinung an bestehenden Diskussionen und Tickets.
+Schreibe uns beispielsweise, welche zusätzlichen Funktionen du gerne sehen möchtest oder beteilige dich mit deiner Meinung an bestehenden Diskussionen und Tickets.   
 Auch eine Vorabversion kannst du [HIER](https://jws-staging.sprenger.pro) auf Herz und Nieren testen, sodass wir möglichst viele Fehler schon vor der Veröffentlichung finden.
